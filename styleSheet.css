@@ -1,0 +1,106 @@
+body {
+    background-color: #404040;
+}
+
+#title {
+    color: #6DBDD6;
+    font-family: Impact;
+    text-align: center;
+    font-size: 100px;
+}
+
+img {
+    border: 4px solid #6DBDD6;
+    box-shadow: 20px 20px 50px black;
+}
+
+.imgCenter {
+    float: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 4px solid #B7142;
+}
+.mainTitle {
+    font-family: Impact;
+    text-align: center;
+}
+
+#whoWasHe {
+    font-size: 70px;
+    color: #B71427;
+}
+
+#heWas {
+    font-family: Helvetica;
+    font-size: 40px;
+    color: #6DBDD6;
+    text-align: center;
+}
+
+hr {
+    color: #6DBDD6;
+    background-color: #6DBDD6;
+    margin-top: 50px;
+}
+
+#whatHappend {
+    font-size: 70px;
+    color: #B71427;
+}
+
+#aboutWhatHappend {
+    font-family: Helvetica;
+    font-size: 40px;
+    color: #6DBDD6;
+    text-align: center;
+}
+
+#whatHappendNext {
+    font-size: 70px;
+    color: #B71427;
+}
+
+#aboutWhatHappendNext {
+    font-family: Helvetica;
+    font-size: 40px;
+    color: #6DBDD6;
+    text-align: center;
+}
+
+#robTom {
+    font-size: 50px;
+    color: #FFE658;
+}
+
+#robTomAbout {
+    font-family: Helvetica;
+    font-size: 30px;
+    color: #6DBDD6;
+    text-align: center;
+}
+
+#jonVen {
+    font-size: 50px;
+    color: #FFE658;
+    text-align: center;
+    font-family: Impact;
+}
+
+#jonVenAbout {
+    font-family: Helvetica;
+    font-size: 30px;
+    color: #6DBDD6;
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    float: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 4px solid #B7142;
+}
